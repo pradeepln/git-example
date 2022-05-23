@@ -2,8 +2,7 @@
 public class Test {
 	
 	public static void main(String[] args) {
-		//This is a conflicting change
-		System.out.println("Hello , Git!! 1");
+		System.out.println("Hello wait, Git!!");
 		//comment added in github site editor
 	}
 
