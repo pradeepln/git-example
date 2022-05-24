@@ -2,8 +2,12 @@
 public class Test {
 	
 	public static void main(String[] args) {
-		//this is a commnet in local
+<<<<<<< HEAD
+		//This is a conflicting change
+		System.out.println("Hello , Git!! 1");
+=======
 		System.out.println("Hello wait, Git!!");
+>>>>>>> 92621d42ede7209d501c6581dbdca0dcd0f05ad1
 		//comment added in github site editor
 	}
 
